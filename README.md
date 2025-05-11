@@ -1,4 +1,4 @@
-# 🎥 DeepLiveCam for macOS
+# DeepLiveCam for macOS
 
 > A simplified guide to install and run [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) on macOS  
 > With proper Python versioning, model setup, and optional CoreML acceleration
